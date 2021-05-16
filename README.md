@@ -1,12 +1,12 @@
 ###  Hi there, i'm Hitesh Limbani 👋
 
--🔭 I’m currently working on  React & Wordpress
+⚛ React
 
--🌱 I’m currently learning React Js
+📱 React Native
 
--👯 I’m looking to collaborate on Up Work
+💻 Wordpress
 
--📫 How to reach me: Instagram - @coddingwarrior
+💻 HTML, CSS, JS
 
 <img src="https://github-readme-stats.vercel.app/api?username=hiteshlimbanidev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!---
