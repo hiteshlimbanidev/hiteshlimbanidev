@@ -1,6 +1,6 @@
 ###  Hi there, i'm Hitesh Limbani 👋
 <ul>
-  <li>⚛ React</li>
+  <li>⚛ React Js</li>
   <li>📱 React Native</li>
   <li>💻 Wordpress</li>
   <li>💻 HTML, CSS, JS</li>
