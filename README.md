@@ -4,7 +4,7 @@
   <li>📱 React Native</li>
   <li>💻 Wordpress</li>
   <li>💻 HTML, CSS, JS</li>
-  <li>Hire Me On Up Work:-https://www.upwork.com/freelancers/~01acd1a3187401be38</li>
+  
 </ul>
 
 
