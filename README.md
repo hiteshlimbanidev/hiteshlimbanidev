@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **React Js and React Native Development**
 
-- 💬 Ask me about **React Js**
-
 - 📫 How to reach me **hiteshbusinessacc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
