@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **React Js projects**
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **React Js and MERN Stack Development**
+- 👯 I’m looking to collaborate on **React Js and React Native Development**
 
 - 💬 Ask me about **React Js**
 
