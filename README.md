@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh Limbani</h1>
-<h3 align="center">A passionate frontend developer from India. Specialize in React And MERN Stack. I’m here to help you by taking over the strategy, design, and development.</h3>
+<h3 align="center">A passionate frontend developer from India. Specialize in React And React Native.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
