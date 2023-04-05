@@ -3,11 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-- 🔭 I’m currently working on **React Js projects**
-
-- 👯 I’m looking to collaborate on **React Js and React Native Development**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/hitesh-limbani-a47b081a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/hitesh-limbani-a47b081a1" height="30" width="40" /></a>
